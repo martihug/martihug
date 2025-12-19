@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hugo Martinez | Embedded & IoT Engineer<br><br>🇫🇷 4th-year engineering student specializing in **Embedded Systems & Connected Objects (IoT)**.<br><br>* 🔭 Currently building projects with **C/C++** and microcontrollers.<br>* 🌱 Self-learning **Full-Stack Web Development** (HTML, CSS, JS).<br>* 👯 Actively contributing to **online community projects** and open to new collaborations.<br>* 📫 Feel free to connect!
+### 👋 Hugo Martinez | Embedded & IoT Engineer<br><br>🇫🇷 4th-year engineering student specializing in **Embedded Systems & Connected Objects (IoT)**.<br><br>* 🔭 Currently building projects with **C/C++** and microcontrollers.<br>* 🌱 Self-learning **Full-Stack Web Development**.<br>* 👯 Actively contributing to **online community projects** and open to new collaborations.<br>* 📫 Feel free to connect!
 
 
 ## 🌐 Socials:
